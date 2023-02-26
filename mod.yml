@@ -271,6 +271,11 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100.a.us\-8.dds
+- name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
 - name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
   platform: pc
   method: copy
