@@ -1,5 +1,5 @@
-title: KH1 Sora
-description: Adds back Sora as he appeared in Kingdom Hearts I, complete with drive form variants, Halloween Town, Christmas Town, and Timeless River variants. On PC, new HUD art & Sora's voice from Kingdom Hearts I are implemented. 
+title: DDD Sora
+description: Sora, as he appeared in DDD. Includes Halloween Town/Christmas Town/Timeless River variants.
 assets:
 - name: obj/P_EX100.mdlx
   method: binarc
@@ -266,6 +266,11 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX100_AL_CARPET.a.us\-8.dds
+- name: remastered\obj\P_EX100.a.us\-8.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\P_EX100.a.us\-8.dds
 - name: remastered\obj\P_EX100_HTLF.a.us\-3.dds
   platform: pc
   method: copy
